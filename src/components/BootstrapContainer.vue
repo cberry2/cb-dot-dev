@@ -12,9 +12,9 @@
 </template>
 
 <script>
-  export default {
-    name: 'BootstrapContainer'
-  };
+export default {
+  name: 'BootstrapContainer',
+};
 </script>
 
 <style scoped>
