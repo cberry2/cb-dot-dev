@@ -1,11 +1,13 @@
 <template>
   <div class="container">
     <!-- Content here -->
-    <nav class="navbar">
-      <li class="nav-item">
-        <a>Teesttt</a>
-      </li>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="nav-item">
+        Teesttt
+      </a>
     </nav>
+
+    <img alt="dead logo" src="./../assets/dead.png">
   </div>
 </template>
 
