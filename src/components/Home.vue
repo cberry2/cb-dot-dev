@@ -8,11 +8,7 @@
         text-center
         wrap
       >
-        <v-flex class="d-flex align-center justify-center">
-          <p class="subheading font-weight-thin white--text display-3">
-            More coming soon...
-          </p>
-        </v-flex>
+        <v-flex class="d-flex align-center justify-center"/>
       </v-layout>
     </v-container>
   </v-content>
