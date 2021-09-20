@@ -24,21 +24,22 @@
       <v-switch
         class="nav-switch"
         :class="darkMode ? 'theme--dark' : 'theme--light'"
-        :label="darkMode ? 'Dark Mode' : 'Light Mode'"
         v-model="darkMode"
+        color="grey"
+        inset
       ></v-switch>
   </v-app-bar>
 </template>
 
 <script>
-  export default {
-    name: 'Header',
-    data() {
-      return {
-        darkMode: false
-      };
-    }
-  };
+export default {
+  name: 'Header',
+  data() {
+    return {
+      darkMode: false,
+    };
+  },
+};
 </script>
 
 <style scoped>
