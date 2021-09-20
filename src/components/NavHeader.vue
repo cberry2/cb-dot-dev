@@ -8,7 +8,7 @@
     <v-btn
       :class="darkMode ? 'theme--dark' : 'theme--light'"
       text
-      href="https://github.com/cberry2"
+      href="https://github.com/cberry-chwy"
       target="_blank"
     >
       <span class="mr-2">Github</span>
